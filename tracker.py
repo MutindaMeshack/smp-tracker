@@ -1,1 +1,1 @@
-# Updated tracking logic
+print("SMP Tracker v1")
